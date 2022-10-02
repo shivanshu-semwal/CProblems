@@ -1,0 +1,61 @@
+[data-md-color-accent="teal"] {
+  --md-tag-list-color: aliceblue;
+  --md-tag-color1: #795649;
+  --md-tag-color2: #ef5552;
+  --md-tag-color3: #e92063;
+  --md-tag-color4: #ab47bd;
+  --md-tag-color5: #4051b5;
+  --md-tag-color6: #2094f3;
+  --md-tag-color7: #02a6f2;
+  --md-tag-color8: #00bdd6;
+  --md-tag-color9: #009485;
+  --md-tag-color10: #4cae4f;
+  --md-button1: #000000;
+  --md-button2: #ffffff;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-tag-list-color: #21222c;
+  --md-tag-color1: #cbdc38;
+  --md-tag-color2: #ef5552;
+  --md-tag-color3: #e92063;
+  --md-tag-color4: #ab47bd;
+  --md-tag-color5: #ffec3d;
+  --md-tag-color6: #2094f3;
+  --md-tag-color7: #02a6f2;
+  --md-tag-color8: #00bdd6;
+  --md-tag-color9: #009485;
+  --md-tag-color10: #4cae4f;
+  --md-button1: #ffffff;
+  --md-button2: #000000;
+}
+
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-color: #448aff;
+}
+
+.md-typeset .info > .admonition-title,
+.md-typeset .info > summary {
+  background-color: rgba(68, 138, 255, 0.1);
+}
+
+.md-typeset .info > .admonition-title::before,
+.md-typeset .info > summary::before {
+  background-color: #448aff;
+}
+
+.md-typeset .admonition.example,
+.md-typeset details.example {
+  border-color: #448aff;
+}
+
+.md-typeset .example > .admonition-title,
+.md-typeset .example > summary {
+  background-color: rgba(68, 138, 255, 0.1);
+}
+
+.md-typeset .example > .admonition-title::before,
+.md-typeset .example > summary::before {
+  background-color: #448aff;
+}
