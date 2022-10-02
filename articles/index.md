@@ -35,7 +35,10 @@ hide:
 
 ## License
 
-Creative Commons license
-:fontawesome-brands-creative-commons:
-:fontawesome-brands-creative-commons-by:
-:fontawesome-brands-creative-commons-nc:
+!!! info "Creative Commons license [CC BY-NC](https://creativecommons.org/licenses/)"
+
+    ![CC BY-NC](license.png)
+
+    This license lets others remix, adapt, and build upon your work non-commercially, and 
+    although their new works must also acknowledge you and be non-commercial, they don’t 
+    have to license their derivative works on the same terms.

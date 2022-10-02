@@ -3,7 +3,7 @@ site_url: https://shivanshu-semwal.github.io/CProblems/
 site_author: Shivanshu Semwal (semwalshivanshu@gmail.com)
 site_description: Complete article on famous competitive programming problems.
 copyright: > 
-  CC License<br>
+  <img alt="CC BY-NC" src="license.png">
 
 docs_dir: articles
 repo_url: https://github.com/shivanshu-semwal/CProblems
