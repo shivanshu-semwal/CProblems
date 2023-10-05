@@ -49,8 +49,6 @@ theme:
 #
 plugins:
   - search # must be included at the first place
-  - awesome-pages:
-      # collapse_single_pages: true # replaced by navigation.indexes
   - git-revision-date-localized:
         enable_creation_date: true
         fallback_to_build_date: true
@@ -61,10 +59,6 @@ plugins:
 # Extensions
 #
 markdown_extensions:
-  #
-  # Python Markdown
-  # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
-  #
   - abbr # add a small tooltip to elements
   - admonition # add call-out blocks
   - attr_list # allow to add HTML attributes and CSS classes
